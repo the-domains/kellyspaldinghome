@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KellySpaldingHome]]></title>
+        <description><![CDATA[KellySpaldingHome]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 17:55:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kelly Spalding Home is a place for inspiration and encouragement to create a home for family, friends and entertaining. No matter the budget, I truly believe all it takes is some helpful guidance and a great vision for your house to become your home one room at a time. My philosophy as a decorator and stylist is to help you make your space YOURS! I am very intentional about surrounding you with things that matter to you, not the latest trends. We all want a soft place to land and to be surrounded by comfort and love and I believe that a home should wrap it's arms around you when you enter the front door. </p>]]></description>
+            <link>undefinedkelly-spalding-home-is-a-place-for-inspiration-and-encourage/index.html</link>
+            <guid isPermaLink="false">65e29a7d-83f9-4238-aba5-9c264cbb92dc</guid>
+            <pubDate>Wed, 17 Aug 2016 17:55:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
